@@ -11,5 +11,5 @@ Some benchmark showing that this python version is:
 potential improvements:
 - Ability to split zipped files (this function was removed after several revision as I never need it).
 
-Acknowledgement
-The original split.py was from: https://github.com/StanfordBioinformatics/HugeSeq.git
+Acknowledgement:
+- The original split.py was from: https://github.com/StanfordBioinformatics/HugeSeq.git
